@@ -16,6 +16,17 @@ btns.forEach((element) => {
         else if(btnClassesArr.contains('reset')){
             countValue=0;
         }
+        
+        if(countValue>0){
+            countElement.style.color = 'lightgreen';
+        }
+        else if(countValue<0){
+            countElement.style.color = 'red';
+        }
+        else{
+            countElement.style.color = 'white';
+        }
+
         countElement.innerText = countValue;
     });    
 });
