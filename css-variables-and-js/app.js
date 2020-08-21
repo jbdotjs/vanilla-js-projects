@@ -1,6 +1,5 @@
 window.addEventListener('load', ()=>{
     const inputs = document.querySelectorAll('.controls input');
-    console.log('helo');
 
     function handleUpdate() {
         const suffix = this.dataset.sizing || '';
