@@ -30,3 +30,7 @@ body {
   .hl{
       color: var(--base);
   }
+   
+   h2::selection {
+    background : var(--base) ;
+  }
