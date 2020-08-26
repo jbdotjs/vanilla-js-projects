@@ -58,10 +58,10 @@ progress.addEventListener('mouseup', () => mousedown = false);
 
 function shortcutSkip(direction) {
     if (direction == 'forward') {
-        video.currentTime += 3;
+        video.currentTime += 5;
     }
     if (direction == 'backwards') {
-        video.currentTime -= 3;
+        video.currentTime -= 5;
     }
 }
 
@@ -79,8 +79,6 @@ function shortcutRangeHandler(direction) {
     }
 }
 
-
-
 document.body.addEventListener('keydown', (e) => {
     const code = e.keyCode;
 
@@ -92,4 +90,3 @@ document.body.addEventListener('keydown', (e) => {
                         : null;
 });
 
-video.fullscreen = true;
