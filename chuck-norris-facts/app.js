@@ -1,7 +1,7 @@
 const fact_p = document.getElementById('fact');
 
 function getFact() {
-    axios.get("http://api.icndb.com/jokes/random")
+    axios.get("https://api.icndb.com/jokes/random")
         .then((response) => {
             let joke = response.data.value.joke;
             
