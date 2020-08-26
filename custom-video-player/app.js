@@ -57,7 +57,7 @@ progress.addEventListener('mouseup', () => mousedown = false);
 /* keyboard shortcuts */
 
 function shortcutSkip(direction) {
-    if (direction == 'forward') {
+    if (direction == 'forwards') {
         video.currentTime += 5;
     }
     if (direction == 'backwards') {
