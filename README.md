@@ -12,6 +12,10 @@ Simple Vanilla JS projects made while learning fundamentals of JavaScript
 - Complete CRUD Functionality
 - Local Data Persistence
 
+#### Live Demo
+https://talha-vanilla-js.netlify.app/vanilla-todo/
+
+
 ## Custom Video Player
 #### Learnings:
 + **HTML**: Custom Attributes, Properties & Methods available on a Video, Range type of input tag
