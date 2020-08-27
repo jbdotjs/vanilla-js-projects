@@ -12,8 +12,19 @@ Simple Vanilla JS projects made while learning fundamentals of JavaScript
 - Complete CRUD Functionality
 - Local Data Persistence
 
+## Custom Video Player
+#### Learnings:
++ **HTML**: Custom Attributes, Properties & Methods available on a Video, Range type of input tag
++ **CSS**: Transitions, Transforms, Positioning, Linear Gradients
++ **JS**: DOM manipulation (Selection, Events, Styling, Key Codes)
+
+#### Features:
+- Completely Customized UI
+- Keyboard Shortcuts (Play, Pause, Skip ahead/behind, Volume)
+- Speed Adjustment
+
 #### Live Demo
-https://talha-vanilla-js.netlify.app/vanilla-todo/
+https://talha-vanilla-js.netlify.app/custom-video-player/
 
 ## Live Demo
 https://talha-vanilla-js.netlify.app/
