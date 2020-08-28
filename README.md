@@ -1,6 +1,22 @@
 # vanilla-js-projects
 Simple Vanilla JS projects made while learning fundamentals of JavaScript 
 
+## Custom Video Player
+#### Learnings:
++ **HTML**: Custom Attributes, Properties & Methods available on a Video, Range type of input tag
++ **CSS**: Transitions, Transforms, Positioning, Linear Gradients
++ **JS**: DOM manipulation (Selection, Events, Styling, Key Codes)
+
+#### Features:
+- Completely Customized UI
+- Keyboard Shortcuts (Play, Pause, Skip ahead/behind, Volume)
+- Speed Adjustment
+
+#### Live Demo
+https://talha-vanilla-js.netlify.app/custom-video-player/
+
+
+
 ## Vanilla To-Do
 #### Learnings:
 + **HTML**: Linking & Adding font awesome icons and google fonts
@@ -15,20 +31,6 @@ Simple Vanilla JS projects made while learning fundamentals of JavaScript
 #### Live Demo
 https://talha-vanilla-js.netlify.app/vanilla-todo/
 
-
-## Custom Video Player
-#### Learnings:
-+ **HTML**: Custom Attributes, Properties & Methods available on a Video, Range type of input tag
-+ **CSS**: Transitions, Transforms, Positioning, Linear Gradients
-+ **JS**: DOM manipulation (Selection, Events, Styling, Key Codes)
-
-#### Features:
-- Completely Customized UI
-- Keyboard Shortcuts (Play, Pause, Skip ahead/behind, Volume)
-- Speed Adjustment
-
-#### Live Demo
-https://talha-vanilla-js.netlify.app/custom-video-player/
 
 ## Live Demo
 https://talha-vanilla-js.netlify.app/
