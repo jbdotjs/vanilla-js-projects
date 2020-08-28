@@ -31,6 +31,3 @@ https://talha-vanilla-js.netlify.app/custom-video-player/
 #### Live Demo
 https://talha-vanilla-js.netlify.app/vanilla-todo/
 
-
-## Live Demo
-https://talha-vanilla-js.netlify.app/
