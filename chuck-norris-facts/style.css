@@ -49,6 +49,7 @@ h1 {
 }
 
 button {
+    position: relative;
     margin-top: 100px;
     padding: 5px 10px;
     border-radius: 5px;
