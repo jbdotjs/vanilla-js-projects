@@ -64,6 +64,11 @@ button:active{
     transform: scale(0.8);
 }
 
+button:hover{
+    background: rgb(252, 252, 252);
+    color: #f05454;
+}
+
 p {
     font-size: 1.5rem;
 }
