@@ -48,6 +48,7 @@ h1 {
 }
 
 button {
+    outline: none;
     padding: 8px 12px;
     border-radius: 5px;
     background: #f05454;
@@ -58,6 +59,7 @@ button {
 }
 
 button:active{
+    outline: none;
     transform: scale(0.8);
 }
 
