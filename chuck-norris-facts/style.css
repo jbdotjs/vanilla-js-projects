@@ -51,6 +51,7 @@ button {
     outline: none;
     padding: 8px 12px;
     border-radius: 5px;
+    border-color: #f05454;
     background: #f05454;
     color: rgb(252, 252, 252);
     font-size: 1.3rem;
@@ -64,6 +65,7 @@ button:active{
 }
 
 button:hover{
+    border-color: rgb(252, 252, 252);
     background: rgb(252, 252, 252);
     color: #f05454;
 }
