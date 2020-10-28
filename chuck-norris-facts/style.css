@@ -45,12 +45,11 @@ h1 {
 
 .button-wrapper{
     position: absolute;
-    margin-top: 150px;
+    margin-top: 250px;
 }
 
 button {
     position: relative;
-    margin-top: 165px;
     padding: 8px 12px;
     border-radius: 5px;
     background: #f05454;
@@ -80,5 +79,6 @@ p {
 @media (max-width:500px) {
     .fact-section{
         width: 80%;
+        margin-bottom: 50px;
     }
 }
