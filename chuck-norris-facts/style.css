@@ -44,12 +44,10 @@ h1 {
 }
 
 .button-wrapper{
-    position: absolute;
-    margin-top: 250px;
+    margin-top: 100px;
 }
 
 button {
-    position: relative;
     padding: 8px 12px;
     border-radius: 5px;
     background: #f05454;
